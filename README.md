@@ -81,7 +81,7 @@ I'm a **Computer Engineering student at DY Patil (SPPU)** with a deep passion fo
 
 ---
 
-## 🏆 GitHub Trophies
+<!--## 🏆 GitHub Trophies
 
 <div align="center">
 
@@ -90,6 +90,18 @@ I'm a **Computer Engineering student at DY Patil (SPPU)** with a deep passion fo
 </div>
 
 ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarverse&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=omkarverse&theme=gruvbox_light&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarverse&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div> -->
+
 
 ## 🔝 Top Contributed Repos
 
