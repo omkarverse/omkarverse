@@ -24,8 +24,6 @@ I'm a **Computer Engineering student at DY Patil (SPPU)** with a deep passion fo
 
 ---
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=omkarverse&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
-
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -81,35 +79,29 @@ I'm a **Computer Engineering student at DY Patil (SPPU)** with a deep passion fo
 
 ---
 
----
-
-<!--## 🏆 GitHub Trophies
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=omkarverse&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
-
----
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarverse&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
-
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=omkarverse&theme=gruvbox_light&hide_border=false)
+
+<!-- Uncomment when ready to add more stats
+![Omkar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=omkarverse&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omkarverse&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</div> -->
+![Trophies](https://github-profile-trophy.vercel.app/?username=omkarverse&theme=gruvbox&no-frame=false&no-bg=false&margin-w=4)
+-->
 
+</div>
+
+---
 
 ## 🔝 Top Contributed Repos
 
 <div align="center">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=omkarverse&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=omkarverse&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
 
 </div>
 
@@ -119,7 +111,7 @@ I'm a **Computer Engineering student at DY Patil (SPPU)** with a deep passion fo
 
 <div align="center">
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox_light)
 
 </div>
 
