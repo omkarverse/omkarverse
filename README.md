@@ -24,6 +24,8 @@ I'm a **Computer Engineering student at DY Patil (SPPU)** with a deep passion fo
 
 ---
 
+![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=omkarverse&limit=5&theme=gruvbox_light&combine_all_yearly_contributions=true)
+
 ## 🌐 Connect With Me
 
 <div align="center">
